@@ -1,0 +1,16 @@
+{
+  "author": "gorilla",
+  "bugs": {
+    "url": "https://github.com/gorilla/context"
+  },
+  "gx": {
+    "dvcsimport": "github.com/gorilla/context"
+  },
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "BSD-style",
+  "name": "context",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.1.0"
+}
+
